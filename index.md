@@ -1,0 +1,1 @@
+Personal AI Agent that looks on fashion clothing brand sites and selects sustainable items from there. Checks Pinterest boards from personal account for outfits references and tries making suggestion based on them and the items found on websites.
